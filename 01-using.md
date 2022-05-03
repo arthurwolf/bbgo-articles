@@ -89,7 +89,7 @@ Another important file is the ENV file (it's hidden, it's named ``.env.local`` )
 
 Now that all of this is setup properly, you are ready to run BBGO yourself, simply do:
 
-   ../bbgo run
+    ./bbgo run
 
 And your adventure begins!
 
